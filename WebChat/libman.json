@@ -1,0 +1,27 @@
+{
+  "version": "3.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@microsoft/signalr@latest",
+      "destination": "wwwroot/js/signalr/",
+      "files": [
+        "dist/browser/signalr.js",
+        "dist/browser/signalr.min.js"
+      ]
+    },
+    {
+      "provider": "cdnjs",
+      "library": "alpinejs@3.14.8",
+      "destination": "wwwroot/lib/alpinejs/",
+      "files": [
+        "cdn.js",
+        "cdn.min.js",
+        "module.cjs.js",
+        "module.cjs.min.js",
+        "module.esm.js",
+        "module.esm.min.js"
+      ]
+    }
+  ]
+}
