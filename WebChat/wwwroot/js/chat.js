@@ -7,7 +7,6 @@
         init() {
             //tao connection
             this.currentUserId = this.$refs.UserIdEle.value;
-            console.log(this.currentUserId);
             this.connection = new signalR.HubConnectionBuilder().withUrl("/chat").build();
             //ket noi
             this.connection.start();
@@ -15,7 +14,6 @@
             //tao su kien nhan tin nhan
             this.connection.on("ReceiveMessage", (mesg) => {
                 //them ti nhan vao cuoi danh sach
-                console.log(mesg);
                 this.messages.push(mesg);
             });
             //su kien khi thay doi nguoi nhan
@@ -27,7 +25,6 @@
                     //lay tin nhan
                     let response = await fetch(`/Home/Chat?id=${receiverId}`);
                     let data = await response.json();
-                    console.log(data);
                     data.forEach(mesg => {
                         this.messages.push(mesg);
                     });

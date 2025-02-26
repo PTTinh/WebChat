@@ -14,7 +14,7 @@
                     <li class="list-group-item">
                         <label class="select-user">
                             <input type="radio" name="user-check" value="@u.Id" />
-                            @u.FullName (@u.Username)
+                            @u.FullName <small>(@u.Username)</small>
                         </label>
                     </li>
                 }
@@ -45,60 +45,7 @@
         </div>
     </div>
 </div>
-@* <li> *@
-@*     <div class="d-flex justify-content-start mb-4"> *@
-@*         <div class="p-3 bg-light rounded"> *@
-@*             <p class="mb-0" x-text="msg.msgRecieve"></p> *@
-@*         </div> *@
-@*     </div> *@
-@*     <div class="d-flex justify-content-end mb-4"> *@
-@*         <div class="p-3 bg-primary text-white rounded"> *@
-@*             <p class="mb-0" x-text="msg.msgSnder"></p> *@
-@*         </div> *@
-@*     </div> *@
-@* </li> *@
 
-@* <div class="container"> *@
-@*     <div class="row"> *@
-@*         <div class="col-md-3"> *@
-@*             <h3>User</h3> *@
-@*             <ul class="list-group"> *@
-@*                 <li class="list-group-item" x-for="user in users" x-text="user"></li> *@
-@*             </ul> *@
-@*         </div> *@
-@*         <div class="col-md-9"> *@
-@*             <div x-data="chatData" class="row"> *@
-@*                 <div class="col-md-12"> *@
-@*                     <h1>Xin Chào : @Context.User?.Identity?.Name, id: @Context.User?.FindFirst(ClaimTypes.NameIdentifier)?.Value</h1> *@
-@*                     <br /> *@
-@*                     Tên đầy đủ: @Context.User?.FindFirst("FullName")?.Value *@
-@*                     <form> *@
-@*                         <div class="mt-3"> *@
-@*                             <label>User</label> *@
-@*                             <input type="text" x-model="user" class="form-control" placeholder="User" /> *@
-@*                         </div> *@
-@*                         <div class="mt-3"> *@
-@*                             <label>Noi dung chat</label> *@
-@*                             <textarea class="form-control" x-model="message" placeholder="Nhap noi dung chat..."></textarea> *@
-@*                         </div> *@
-@*                         <div class="mt-3"> *@
-@*                             <input type="submit" @@click.prevent="sendMessage()" class="btn btn-primary" value="Gui" /> *@
-@*                         </div> *@
-@*                     </form> *@
-@*                 </div> *@
-
-@*                 <div class="col-md-12 pt-5"> *@
-@*                     <h2>Noi Dung</h2> *@
-@*                     <ul> *@
-@*                         <template x-for="msg in messages"> *@
-@*                             <li x-text="msg"></li> *@
-@*                         </template> *@
-@*                     </ul> *@
-@*                 </div> *@
-@*             </div> *@
-@*         </div> *@
-@*     </div> *@
-@* </div> *@
 
 <script src="~/js/signalr/dist/browser/signalr.min.js"></script>
 <script defer src="~/lib/alpinejs/cdn.min.js"></script>

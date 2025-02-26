@@ -7724,11 +7724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotNet\\WebChat\\WebChat\\WebChat.csproj",
+      "projectUniqueName": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat.csproj",
       "projectName": "WebChat",
-      "projectPath": "C:\\dotNet\\WebChat\\WebChat\\WebChat.csproj",
+      "projectPath": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat.csproj",
       "packagesPath": "C:\\Users\\phamt\\.nuget\\packages\\",
-      "outputPath": "C:\\dotNet\\WebChat\\WebChat\\obj\\",
+      "outputPath": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

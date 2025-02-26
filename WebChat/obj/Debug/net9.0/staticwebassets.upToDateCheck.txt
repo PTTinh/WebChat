@@ -1,75 +1,75 @@
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\alpinejs\module.esm.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.slim.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\css\site.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\LICENSE.txt
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-C:\dotNet\WebChat\WebChat\wwwroot\favicon.ico
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\js\chat.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-C:\dotNet\WebChat\WebChat\wwwroot\css\index.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\js\signalr\dist\browser\signalr.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\alpinejs\module.cjs.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.min.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\alpinejs\cdn.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\alpinejs\cdn.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\js\site.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.slim.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\additional-methods.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\alpinejs\module.esm.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\jquery-validation\LICENSE.md
-C:\dotNet\WebChat\WebChat\wwwroot\js\signalr\dist\browser\signalr.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-C:\dotNet\WebChat\WebChat\wwwroot\lib\alpinejs\module.cjs.min.js
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-C:\dotNet\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\alpinejs\module.esm.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\css\site.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\favicon.ico
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\js\chat.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\css\index.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\js\signalr\dist\browser\signalr.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\alpinejs\module.cjs.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\alpinejs\cdn.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\alpinejs\cdn.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\js\site.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\alpinejs\module.esm.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\js\signalr\dist\browser\signalr.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\alpinejs\module.cjs.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 wwwroot\css\index.css
 wwwroot\css\site.css
 wwwroot\favicon.ico

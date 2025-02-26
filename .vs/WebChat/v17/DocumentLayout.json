@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dotNet\\WebChat\\",
+  "WorkspaceRootPath": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\entities\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\entities\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\entities\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\dotnet\\webchat\\webchat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|c:\\users\\phamt\\onedrive\\m\u00E1y t\u00EDnh\\github\\webchat\\webchat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A1A5995B-9CA8-4675-9D73-CF993DAB9880}|WebChat\\WebChat.csproj|solutionrelative:webchat\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\Hubs\\ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "WebChat\\Hubs\\ChatHub.cs",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "WebChat\\Hubs\\ChatHub.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T14:10:41.164Z",
               "IsPinned": true,
@@ -64,24 +64,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebChat\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebChat\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T16:24:53.568Z",
+              "DocumentIndex": 0,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "WebChat\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "WebChat\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T14:19:57.672Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebChat\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebChat\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAB0AAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -89,81 +90,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebChat\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Controllers\\AccountController.cs",
               "RelativeToolTip": "WebChat\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA5wCYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwCYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T11:54:37.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebChat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebChat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T16:40:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebChat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebChat\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:24:53.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebChat\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebChat\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T18:29:21.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T18:29:21.611Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Messages.cs",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\Entities\\Messages.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Entities\\Messages.cs",
               "RelativeDocumentMoniker": "WebChat\\Entities\\Messages.cs",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\Entities\\Messages.cs",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\Entities\\Messages.cs",
               "RelativeToolTip": "WebChat\\Entities\\Messages.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:52:45.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T14:52:45.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "index.css",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\wwwroot\\css\\index.css",
+              "DocumentMoniker": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "WebChat\\wwwroot\\css\\index.css",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\phamt\\OneDrive\\M\u00E1y t\u00EDnh\\Github\\WebChat\\WebChat\\wwwroot\\css\\index.css",
               "RelativeToolTip": "WebChat\\wwwroot\\css\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T13:51:35.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "chat.js",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\wwwroot\\js\\chat.js",
-              "RelativeDocumentMoniker": "WebChat\\wwwroot\\js\\chat.js",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\wwwroot\\js\\chat.js",
-              "RelativeToolTip": "WebChat\\wwwroot\\js\\chat.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-24T14:19:57.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\dotNet\\WebChat\\WebChat\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebChat\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\dotNet\\WebChat\\WebChat\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebChat\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T16:40:25.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:51:35.597Z"
             }
           ]
         }
