@@ -1,0 +1,19 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "alpinejs@3.14.9",
+      "destination": "wwwroot/lib/alpinejs/",
+      "files": [
+        "cdn.js",
+        "cdn.min.js",
+        "module.cjs.js",
+        "module.cjs.min.js",
+        "module.esm.js",
+        "module.esm.min.js"
+      ]
+    }
+  ]
+}
