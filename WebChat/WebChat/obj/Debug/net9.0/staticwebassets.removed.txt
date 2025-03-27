@@ -1,0 +1,2 @@
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\js\signalr.js\jquery.signalr.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\js\signalr.js\jquery.signalr.min.js

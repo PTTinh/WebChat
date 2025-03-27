@@ -29,3 +29,37 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.select-user {
+    cursor: pointer;
+    display: block;
+}
+
+input[type=radio] {
+    appearance: none;
+}
+
+.list-group-item:has(.select-user):hover {
+    background-color: lightgreen;
+}
+
+.list-group-item:has(input[type=radio]:checked) {
+    background-color: aquamarine;
+}
+
+/*.contacts-column, .chat-column {
+    height: calc(100vh - 60px);
+    padding: 10px;
+}
+
+.message-received .message-content {
+    max-width: 75%;
+    border-radius: 15px;
+    border-top-left-radius: 0;
+}
+
+.message-sent .message-content {
+    max-width: 75%;
+    border-radius: 15px;
+    border-top-right-radius: 0;
+}*/

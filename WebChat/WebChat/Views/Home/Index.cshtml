@@ -1,8 +1,60 @@
-﻿@{
+﻿@model List<WebChat.Entities.Users>
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div x-data="chatData" class="container-fluid h-100">
+    <div class="row h-100">
+        <div class="col-md-4 contacts-column">
+            <div class="card h-100">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Contacts</h5>
+                </div>
+                <div class="card-body p-0">
+                    <ul class="list-group list-group-flush">
+                        @foreach (var u in Model)
+                        {
+                            <li class="list-group-item d-flex align-items-center">
+                                <label class="mb-0 select-user">
+                                    <input type="radio" name="user-check" value="@u.Id" />
+                                    @u.FullName
+                                    <small class="text-muted">(@u.Username)</small>
+                                </label>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8 chat-column" id="chatColumn">
+            <div class="card h-100">
+                <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0">Chat with User</h5>
+                </div>
+                <div class="card-body chat-messages p-3" id="chat-window" style="height: calc(100vh - 200px); overflow-y: scroll;">
+                    <input type="hidden" x-ref="UserIdEle" value="@User.GetUserId()" />
+                    <template x-for="msg in messages" :key="msg.id">
+                        <div class="mb-3" :class="currentUserId == msg.senderId?'message-sent text-end':'message-received'">
+                            <div class="d-flex" :class="currentUserId == msg.senderId?'justify-content-end':''">
+                                <div class="message-content p-2 rounded" :class="currentUserId == msg.senderId?'bg-primary text-white':'bg-light'">
+                                    <div class="message-text text-start" x-text="msg.message"></div>
+                                    <div class="message-time small" :class="currentUserId == msg.senderId?'text-white':'text-muted'">10:32 AM</div>
+                                </div>
+                            </div>
+                        </div>
+                    </template>
+                </div>
+                <div class="card-footer">
+                    <div class="input-group">
+                        <input type="text" class="form-control" x-model="message" x-ref="chatBox" id="messageInput" placeholder="Type a message...">
+                        <button class="btn btn-primary" @@click="sendMessage">Send</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+<script src="~/js/chat.js"></script>
+<script src="~/js/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/lib/alpinejs/cdn.min.js"></script>

@@ -144,7 +144,6 @@ C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\scopedcss\bundle\WebChat.styles.css
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\scopedcss\projectbundle\WebChat.bundle.scp.css
-C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\6ufg2jetw9-b9sayid5wm.gz
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\9haxy2t3lt-61n19gt1b8.gz
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\t4muivir1u-xtxxf3hu2r.gz
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\sl9dglqzzr-8rw1bfnfgg.gz
@@ -347,3 +346,7 @@ C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\6ufg2jetw9-0tofrybtij.gz
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\d1rbnl6dmy-cqu3aupeo3.gz
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\xoun6j5phm-m3i9f6419i.gz
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\bfmuba34jm-36xeg0su3l.gz

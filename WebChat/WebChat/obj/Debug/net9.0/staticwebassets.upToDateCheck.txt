@@ -24,12 +24,14 @@ C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\jq
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\favicon.ico
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\js\chat.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\js\signalr\dist\browser\signalr.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\alpinejs\module.cjs.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
@@ -62,12 +64,16 @@ C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\jq
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\alpinejs\module.esm.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\js\signalr\dist\browser\signalr.min.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\alpinejs\module.cjs.min.js
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\chat.js
+wwwroot\js\signalr\dist\browser\signalr.js
+wwwroot\js\signalr\dist\browser\signalr.min.js
 wwwroot\js\site.js
 wwwroot\lib\alpinejs\cdn.js
 wwwroot\lib\alpinejs\cdn.min.js
