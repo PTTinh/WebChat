@@ -79,5 +79,11 @@ namespace WebChat.Controllers
             return RedirectToAction("Login");
         }
 
+        public IActionResult Logout()
+        {
+            HttpContext.SignOutAsync("Cookies");
+            return RedirectToAction("Login");
+        }
+
     }
 }

@@ -346,7 +346,7 @@ C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\6ufg2jetw9-0tofrybtij.gz
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\d1rbnl6dmy-cqu3aupeo3.gz
 C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\xoun6j5phm-m3i9f6419i.gz
-C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\bfmuba34jm-36xeg0su3l.gz
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\6ufg2jetw9-cb0eiz70vm.gz
+C:\Users\phamt\OneDrive\Máy tính\Github\WebChat\WebChat\WebChat\obj\Debug\net9.0\compressed\bfmuba34jm-d9zgnt56f1.gz

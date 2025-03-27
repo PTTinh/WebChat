@@ -14,7 +14,16 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebChat</a>
-                <a>Đăng xuất</a>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" class="form-inline">
+                        <button type="submit" class="btn">Logout</button>
+                    </form>
+                }
+                else
+                {
+                    <a class="btn btn" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                }
             </div>
         </nav>
     </header>

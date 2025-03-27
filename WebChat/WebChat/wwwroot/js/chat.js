@@ -13,10 +13,13 @@
                 console.log("ket noi thanh cong");
             });
 
-
             //tao su kien nhan tin nhan
             this.connection.on("ReceiveMessage", (mesg) => {
-                //them ti nhan vao cuoi danh sach
+                //tách thời gian gửi tin nhắn
+                let sentTime = new Date(mesg.sendingTime);
+                mesg.date = sentTime.toLocaleDateString();
+                mesg.time = sentTime.toLocaleTimeString();
+                //them tin nhan vao cuoi danh sach
                 this.messages.push(mesg);
             });
 
@@ -26,17 +29,31 @@
                 ele.addEventListener("change", async () => {
                     let receiverId = ele.value;
                     this.messages = [];
+                    let chatbox = document.querySelector("#chat");
+                    chatbox.style.display = "block";
                     await this.loadMessage(receiverId, true);
                 });
             });
-            this.$refs.chatBox.addEventListener("keydown", (e) => {
+            //su kien cuon lên de load them tin nhan
+            let chatbox = document.querySelector("#chat-window"); 
+            chatbox.addEventListener("scroll", () => {
+                if (chatbox.scrollTop === 0) {
+                    let load = document.getElementById('load'); 
+                    load.style.display = 'block';
+                    this.loadMoreMessage().then(() => {
+                        load.style.display = 'none';
+                    });
+                }
+            });
+            this.$refs.inputChatBox.addEventListener("keydown", (e) => {
                 if (e.key === "Enter") {
                     this.sendMessage();
                 }
-
             });
-            
-
+        },
+        hideChat() {
+            let chatWindow = document.getElementById("chat");
+            chatWindow.style.display = "none";
         },
         sendMessage() {
             //lay tin nhan
@@ -53,15 +70,13 @@
             this.connection.invoke("SendMessage", mesg, parseInt(receiverId))
                 .then(() => {
                     //xoa tin nhan trong o nhap lieu
-
                     this.message = '';
-                    this.$refs.chatBox.focus();
+                    this.$refs.inputChatBox.focus();
                     //sau khi gui tin nhan thanh cong thi cuon den cuoi danh sach tin nhan
                     let chatbox = document.querySelector("#chat-window");
                     setTimeout(() => {
                         chatbox.scrollTo(0, chatbox.scrollHeight);
                     }, 0);
-
                 }).catch(err =>
                     console.error(err.toString())
                 )
@@ -71,21 +86,26 @@
             if (!receiverId) {
                 return;
             }
-            await this.loadMessage(receiverId);
+            await this.loadMessage(receiverId); 
         },
         async loadMessage(receiverId, isScrollToEnd = false) {
-
             //load lai tin nhan voi nguoi duoc chon
             let lastMessageId = this.messages.length > 0 ? this.messages[0].id : '';
-            let res = await fetch(`/Home/chat/${receiverId}/${lastMessageId}`); //lay lich su tin nhan giua 2 nguoi nay
+            let res = await fetch(`/Home/Chat/${receiverId}/${lastMessageId}`); //lay lich su tin nhan giua 2 nguoi nay
             let data = await res.json(); //chuyen du lieu ve dang json 
+            data.forEach(mesg => {
+                let sentTime = new Date(mesg.sendingTime);
+                mesg.date = sentTime.toLocaleDateString();
+                mesg.time = sentTime.toLocaleTimeString();
+            });
             this.messages = data.concat(this.messages); //them tin nhan vao danh sach tin nhan
-
             //scroll den cuoi danh sach tin nhan
-            let chatbox = document.querySelector("#chat-window");
-            setTimeout(() => {
-                chatbox.scrollTo(0, chatbox.scrollHeight);
-            }, 0);
+            if (isScrollToEnd) {
+                let chatbox = document.querySelector("#chat-window");
+                setTimeout(() => {
+                    chatbox.scrollTo(0, chatbox.scrollHeight);
+                }, 0);
+            }
         }
     }))
 })

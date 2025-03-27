@@ -26,19 +26,25 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-8 chat-column" id="chatColumn">
+        <div class="col-md-8 chat-column" id="chat" style="display: none">
             <div class="card h-100">
                 <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
                     <h5 class="mb-0">Chat with User</h5>
+                    <button type="button" class="btn-close btn-close-white" aria-label="Close" @@click="hideChat"></button>
                 </div>
                 <div class="card-body chat-messages p-3" id="chat-window" style="height: calc(100vh - 200px); overflow-y: scroll;">
                     <input type="hidden" x-ref="UserIdEle" value="@User.GetUserId()" />
+                    <div id="load" class="text-center my-3" style="display: none">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
                     <template x-for="msg in messages" :key="msg.id">
                         <div class="mb-3" :class="currentUserId == msg.senderId?'message-sent text-end':'message-received'">
                             <div class="d-flex" :class="currentUserId == msg.senderId?'justify-content-end':''">
                                 <div class="message-content p-2 rounded" :class="currentUserId == msg.senderId?'bg-primary text-white':'bg-light'">
                                     <div class="message-text text-start" x-text="msg.message"></div>
-                                    <div class="message-time small" :class="currentUserId == msg.senderId?'text-white':'text-muted'">10:32 AM</div>
+                                    <div class="message-time small text-start" :class="currentUserId == msg.senderId?'text-white':'text-muted'" x-text="msg.time"></div>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +52,7 @@
                 </div>
                 <div class="card-footer">
                     <div class="input-group">
-                        <input type="text" class="form-control" x-model="message" x-ref="chatBox" id="messageInput" placeholder="Type a message...">
+                        <input type="text" class="form-control" x-model="message" x-ref="inputChatBox" id="messageInput" placeholder="Type a message...">
                         <button class="btn btn-primary" @@click="sendMessage">Send</button>
                     </div>
                 </div>

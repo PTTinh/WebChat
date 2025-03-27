@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W9aubG9IhkEXm9Z0yDXLvvCdJwnGcSsoUBN7eY5EmSQ=",
+  "Hash": "wyrscYlaLf9OishucGPLXUzLOVW4ih8FeNlp68pmGIc=",
   "Source": "WebChat",
   "BasePath": "_content/WebChat",
   "Mode": "Default",
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-0tofrybtij.gz",
+      "Identity": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-cb0eiz70vm.gz",
       "SourceId": "WebChat",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebChat",
-      "RelativePath": "css/site#[.{fingerprint=0tofrybtij}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=cb0eiz70vm}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -430,8 +430,8 @@
       "RelatedAsset": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fijtvqnd5g",
-      "Integrity": "B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY=",
+      "Fingerprint": "f56wqgfcek",
+      "Integrity": "3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\css\\site.css"
@@ -563,12 +563,12 @@
       "OriginalItemSpec": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-36xeg0su3l.gz",
+      "Identity": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-d9zgnt56f1.gz",
       "SourceId": "WebChat",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebChat",
-      "RelativePath": "js/chat#[.{fingerprint=36xeg0su3l}]?.js.gz",
+      "RelativePath": "js/chat#[.{fingerprint=d9zgnt56f1}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -577,8 +577,8 @@
       "RelatedAsset": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\js\\chat.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2ua30isn1i",
-      "Integrity": "mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o=",
+      "Fingerprint": "lb4rhcoj3d",
+      "Integrity": "XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\js\\chat.js"
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0tofrybtij",
-      "Integrity": "rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w=",
+      "Fingerprint": "cb0eiz70vm",
+      "Integrity": "GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "36xeg0su3l",
-      "Integrity": "lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU=",
+      "Fingerprint": "d9zgnt56f1",
+      "Integrity": "fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
@@ -3106,13 +3106,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.0tofrybtij.css",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-0tofrybtij.gz",
+      "Route": "css/site.cb0eiz70vm.css",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-cb0eiz70vm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.002000000000"
         }
       ],
       "ResponseHeaders": [
@@ -3122,15 +3122,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "499"
         },
         {
           "Name": "ETag",
-          "Value": "\"B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY=\""
+          "Value": "\"3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:52:03 GMT"
+          "Value": "Thu, 27 Mar 2025 09:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3150,13 +3150,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w=\""
+          "Value": "W/\"GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0tofrybtij"
+          "Value": "cb0eiz70vm"
         },
         {
           "Name": "label",
@@ -3164,12 +3164,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w="
+          "Value": "sha256-GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc="
         }
       ]
     },
     {
-      "Route": "css/site.0tofrybtij.css",
+      "Route": "css/site.cb0eiz70vm.css",
       "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3179,7 +3179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1292"
+          "Value": "1196"
         },
         {
           "Name": "Content-Type",
@@ -3187,11 +3187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w=\""
+          "Value": "\"GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:52:03 GMT"
+          "Value": "Thu, 27 Mar 2025 09:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3201,7 +3201,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0tofrybtij"
+          "Value": "cb0eiz70vm"
         },
         {
           "Name": "label",
@@ -3209,13 +3209,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w="
+          "Value": "sha256-GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc="
         }
       ]
     },
     {
-      "Route": "css/site.0tofrybtij.css.gz",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-0tofrybtij.gz",
+      "Route": "css/site.cb0eiz70vm.css.gz",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-cb0eiz70vm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3224,7 +3224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "499"
         },
         {
           "Name": "Content-Type",
@@ -3232,11 +3232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY=\""
+          "Value": "\"3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:52:03 GMT"
+          "Value": "Thu, 27 Mar 2025 09:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3254,7 +3254,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0tofrybtij"
+          "Value": "cb0eiz70vm"
         },
         {
           "Name": "label",
@@ -3262,18 +3262,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY="
+          "Value": "sha256-3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-0tofrybtij.gz",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-cb0eiz70vm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.002000000000"
         }
       ],
       "ResponseHeaders": [
@@ -3283,15 +3283,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "499"
         },
         {
           "Name": "ETag",
-          "Value": "\"B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY=\""
+          "Value": "\"3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:52:03 GMT"
+          "Value": "Thu, 27 Mar 2025 09:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3311,13 +3311,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w=\""
+          "Value": "W/\"GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w="
+          "Value": "sha256-GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc="
         }
       ]
     },
@@ -3332,7 +3332,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1292"
+          "Value": "1196"
         },
         {
           "Name": "Content-Type",
@@ -3340,11 +3340,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w=\""
+          "Value": "\"GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:52:03 GMT"
+          "Value": "Thu, 27 Mar 2025 09:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3354,13 +3354,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rCE2l5jMUpD7U+HLi0waMQ0TLQIkYfmZvFkjSRiLT4w="
+          "Value": "sha256-GCfcw/EPBYsrZyj4qIz0dLFSV4yNwO5xtrXhXZiMdEc="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-0tofrybtij.gz",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\6ufg2jetw9-cb0eiz70vm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3369,7 +3369,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "499"
         },
         {
           "Name": "Content-Type",
@@ -3377,11 +3377,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY=\""
+          "Value": "\"3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:52:03 GMT"
+          "Value": "Thu, 27 Mar 2025 09:52:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3399,7 +3399,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-B99soZf/j9gvDr0c2b8ibtvm6DkSnKgjU6E17WHNXVY="
+          "Value": "sha256-3Y55Sp8I6xben7lfATs7/jK0Zuw/2wKljFSGLcOTC+w="
         }
       ]
     },
@@ -3702,13 +3702,13 @@
       ]
     },
     {
-      "Route": "js/chat.36xeg0su3l.js",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-36xeg0su3l.gz",
+      "Route": "js/chat.d9zgnt56f1.js",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-d9zgnt56f1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000918273646"
+          "Quality": "0.000755287009"
         }
       ],
       "ResponseHeaders": [
@@ -3718,15 +3718,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1323"
         },
         {
           "Name": "ETag",
-          "Value": "\"mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o=\""
+          "Value": "\"XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 02:37:47 GMT"
+          "Value": "Thu, 27 Mar 2025 12:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3746,13 +3746,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU=\""
+          "Value": "W/\"fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "36xeg0su3l"
+          "Value": "d9zgnt56f1"
         },
         {
           "Name": "label",
@@ -3760,12 +3760,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU="
+          "Value": "sha256-fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s="
         }
       ]
     },
     {
-      "Route": "js/chat.36xeg0su3l.js",
+      "Route": "js/chat.d9zgnt56f1.js",
       "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\wwwroot\\js\\chat.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3775,7 +3775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3545"
+          "Value": "4844"
         },
         {
           "Name": "Content-Type",
@@ -3783,11 +3783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU=\""
+          "Value": "\"fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 02:37:47 GMT"
+          "Value": "Thu, 27 Mar 2025 12:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3797,7 +3797,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "36xeg0su3l"
+          "Value": "d9zgnt56f1"
         },
         {
           "Name": "label",
@@ -3805,13 +3805,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU="
+          "Value": "sha256-fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s="
         }
       ]
     },
     {
-      "Route": "js/chat.36xeg0su3l.js.gz",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-36xeg0su3l.gz",
+      "Route": "js/chat.d9zgnt56f1.js.gz",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-d9zgnt56f1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3820,7 +3820,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1323"
         },
         {
           "Name": "Content-Type",
@@ -3828,11 +3828,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o=\""
+          "Value": "\"XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 02:37:47 GMT"
+          "Value": "Thu, 27 Mar 2025 12:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3850,7 +3850,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "36xeg0su3l"
+          "Value": "d9zgnt56f1"
         },
         {
           "Name": "label",
@@ -3858,18 +3858,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o="
+          "Value": "sha256-XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM="
         }
       ]
     },
     {
       "Route": "js/chat.js",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-36xeg0su3l.gz",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-d9zgnt56f1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000918273646"
+          "Quality": "0.000755287009"
         }
       ],
       "ResponseHeaders": [
@@ -3879,15 +3879,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1323"
         },
         {
           "Name": "ETag",
-          "Value": "\"mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o=\""
+          "Value": "\"XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 02:37:47 GMT"
+          "Value": "Thu, 27 Mar 2025 12:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3907,13 +3907,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU=\""
+          "Value": "W/\"fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU="
+          "Value": "sha256-fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s="
         }
       ]
     },
@@ -3928,7 +3928,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3545"
+          "Value": "4844"
         },
         {
           "Name": "Content-Type",
@@ -3936,11 +3936,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU=\""
+          "Value": "\"fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 02:37:47 GMT"
+          "Value": "Thu, 27 Mar 2025 12:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3950,13 +3950,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lRBzo8TJhSLXL/xj+nf1WWaRdjhFHHo0q1Zx9xttKIU="
+          "Value": "sha256-fw4+GJsdS03ETUtcVn+YQfx813L9EtOxQTR99TXVr6s="
         }
       ]
     },
     {
       "Route": "js/chat.js.gz",
-      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-36xeg0su3l.gz",
+      "AssetFile": "C:\\Users\\phamt\\OneDrive\\Máy tính\\Github\\WebChat\\WebChat\\WebChat\\obj\\Debug\\net9.0\\compressed\\bfmuba34jm-d9zgnt56f1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3965,7 +3965,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1088"
+          "Value": "1323"
         },
         {
           "Name": "Content-Type",
@@ -3973,11 +3973,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o=\""
+          "Value": "\"XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 02:37:47 GMT"
+          "Value": "Thu, 27 Mar 2025 12:27:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3995,7 +3995,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mmFYJR4QAyJQAtA6Kc6qMG9bnbDdybn7r9vQFY6cW3o="
+          "Value": "sha256-XxBqc2sZ9v/F21aiHVlOdIZDz61A3+SnFJuObZueVCM="
         }
       ]
     },

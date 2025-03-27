@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af288da77d44471cb718e6fd983e8a823cef71fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4921606e304631d2a4f9c716caea5783d0aaee93")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

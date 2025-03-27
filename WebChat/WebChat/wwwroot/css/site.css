@@ -47,11 +47,6 @@ input[type=radio] {
     background-color: aquamarine;
 }
 
-/*.contacts-column, .chat-column {
-    height: calc(100vh - 60px);
-    padding: 10px;
-}
-
 .message-received .message-content {
     max-width: 75%;
     border-radius: 15px;
@@ -62,4 +57,4 @@ input[type=radio] {
     max-width: 75%;
     border-radius: 15px;
     border-top-right-radius: 0;
-}*/
+}
